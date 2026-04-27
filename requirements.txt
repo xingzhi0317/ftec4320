@@ -5,3 +5,4 @@ pandas
 plotly
 pandas-ta
 requests
+torch
